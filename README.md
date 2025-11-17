@@ -78,7 +78,7 @@ PAGE 4:
 ```
 ## OUTPUT:
 
-![alt text](image.png)
+<img width="1132" height="852" alt="image" src="https://github.com/user-attachments/assets/b5dfff15-919b-42c1-8ce3-5481cb33fffa" />
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
